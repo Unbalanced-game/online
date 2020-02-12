@@ -1,0 +1,88 @@
+#notifications
+connected:Successfully connected to server
+successfullySetupServer:Successfully set up server
+notYourTurn:It's not your turn!
+yourTurn:It's your turn!
+endTurn:You finished your turn
+mayNotEndTurn:You may not end your turn right now
+mayNotRollDice:You may not roll the dice right now
+mayRollDiceAgain:You can roll again!
+invalidPosition:You may not stand there!
+mayNotPlayCard:You may not play this card right now
+mayNotSelectYourself:You may not play this card on yourself
+nowChoosePlayer:You can now choose a player
+winGame: won the game!
+playerPutCardAway:A player has to put a card away!
+unableToWalk:You are unable to walk with that dice roll
+notEnoughPlayers:Not enough players ({1}/{2})
+invalidAmountPlayers:Invalid amount of players! (max. 10)
+nan:Not a number: {1}
+mayNotGetThatCard:You may not get this card: {1}
+mayNotSelectPlayer:You may not select this player
+
+#guiText
+cardsDefault:Your cards will show up here!
+playedCardsDefault:Played cards will show up here!
+playersNoDesc:The player doesn't have any effects
+
+#playerStatus
+stausTimeToReact:Time to react to card: 
+stausCards:Cards: {1}; 
+stausHndslln:Handcuffs: {1}; 
+stausSkipTurns:Skip rounds: {1}; 
+stausWalkBonus:Roll twice: {1}; 
+stausWalkDouble:Double distance: {1}; 
+statusBridge:Bridges: {1}; 
+stausPlace:{1}. place; 
+stausNothing:No effect
+
+#gameStatus
+playerTurn:Player {1}: Roll the dice!
+statusEndTurn:Player {1}: You can end your turn
+statusCardPlayed:{1} played '{2}'
+statusCardPlayedAs:{1} played '{2}' as {3}
+
+#popup
+popChooseNumBetween:Choose a number between {1} and {2}:
+popRetry:Please try again.
+popChooseCard:Choose one of these cards by ID:
+exitConfirm:Are you sure you want to quit the game?
+restartConfirm:Play another game?
+
+#cardsPlayedLabel
+labelAffected:Affected: {1}
+labelPlayedBy:Played by: {1}
+labelPlayedOn:Played on: {1}
+
+#menuText
+amountPlayers:Amount of players:
+boardSelection:Game board:
+deckSelection:Deck to use:
+startAsServer:Create new game
+startAsClient:Join existing game
+randomName:Random!
+connectModeAuto:Auto-Join to games in Network
+connectModeIP:Via IP
+connectModeID:Via ID (server in same network)
+buttonOptions:Options
+
+#optionsText
+optLabel0:Timer time for cards
+optLabel1:Normal dice sides
+optLabel2:Starting cards
+optConfirm:Confirm
+optLang:Language
+
+#summary
+sumCardPlayed:Card played: '{1}'
+sumCardAdded:{1} added card '{2}'
+sumRolled:{1} rolled a {2}
+sumPlayer:Player {1}:
+sumPlayerRolled:Total roll: {1} ({3} times, average: {2})
+sumPlayerCardsPlayed:Cards played: {1}
+
+langSelectionText:Language selection:
+langInfoAuthorText:Author:
+langInfoVersionText:Version:
+langInfoAuthor:Yan W.
+langInfoVersion:1.0

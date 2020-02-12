@@ -1,0 +1,29 @@
+Feldtypen:
+st			= Start
+en			= Ende
+no			= Normales Felder
+ge			= Gefängnis
+ig			= Ins Gefängnis
+br 			= Brücke
+-1/-2/... 	= - Felder (-0 = -10)
+1k/2k		= + Karten
+mk			= - Karte
+nw			= Nochmal Würfeln
+"  "		= Nichts
+
+Richtungen:
+n = nichts
+u = Hoch (up)
+r = Rechts
+d = Runter (down)
+l = Links
+
+Aufbau:
+SizeX
+SizeY
+TileTypes
+ComeFromDirection
+PossibleDirections
+TilePlace
+AlternativePath
+BridgeEntrance

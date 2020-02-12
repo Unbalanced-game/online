@@ -1,0 +1,81 @@
+#notifications
+connected:Erfolgreich mit Server verbunden
+successfullySetupServer:Server erfolgreich initialisiert
+notYourTurn:Du bist nicht dran!
+yourTurn:Du bist dran!
+endTurn:Du hast deinen Zug beendet
+mayNotEndTurn:Du darfst jetzt deinen Zug nicht beenden
+mayNotRollDice:Du darfst jetzt nicht wuerfeln
+mayRollDiceAgain:Du kannst noch mal wuerfeln
+invalidPosition:Hier darfst du nicht stehen
+mayNotPlayCard:Du darfst diese Karte jetzt gerade nicht spielen
+mayNotSelectYourself:Du darfst diese Karte nicht auf dich spielen
+nowChoosePlayer:Du kannst einen Spieler auswaehlen
+winGame: hat das Spiel gewonnen!
+playerPutCardAway:Ein Spieler muss eine Karte  weglegen
+unableToWalk:Mit dieser Zahl kannst du nicht laufen
+notEnoughPlayers:Nicht genug Spieler ({1}/{2})
+invalidAmountPlayers:Ungueltige Anzahl an Spielern (max. 10)
+nan:Keine Zahl: {1}
+mayNotGetThatCard:Du darfst diese Karte nicht nehmen: {1}
+mayNotSelectPlayer:Du darfst diesen Spieler nicht auswählen
+
+#guiText
+cardsDefault:Deine Karten werden hier erscheinen!
+playedCardsDefault:Ausgespielte Karten erscheinen hier!
+playersNoDesc:Der Spieler hat keine Effekte
+
+#playerStatus
+stausTimeToReact:Zeit zum Reagieren: 
+stausCards:Karten: {1}; 
+stausHndslln:Handschellen: {1}; 
+stausSkipTurns:Aussetzen: {1}; 
+stausWalkBonus:Zwei mal wuerfeln: {1}; 
+stausWalkDouble:Doppelt laufen: {1}; 
+statusBridge:Bruecken: {1}; 
+stausPlace:{1}. Platz; 
+stausNothing:Kein Effekt
+
+#popup
+popChooseNumBetween:Waehle eine Zahl zwischen {1} und {2}:
+popRetry:Versuch es noch mal.
+popChooseCard:Waehle eine dieser Karten und gib die ID ein:
+exitConfirm:Bist du sicher, dass du das Spiel verlassen moechtest?
+restartConfirm:Noch ein Spiel?
+
+#cardsPlayedLabel
+labelAffected:Ausgewaehlt: {1}
+labelPlayedBy:Gespielt von: {1}
+
+#menuText
+amountPlayers:Anzahl an Spielern:
+boardSelection:Spielbrett:
+deckSelection:Kartendeck:
+startAsServer:Neues Spiel
+startAsClient:Mit Spiel verbinden
+randomName:Zufall!
+connectModeAuto:Automatisch Spiel in Netzwerk finden
+connectModeIP:Via IP
+connectModeID:Via ID (server in gleichem Netzwerk)
+buttonOptions:Einstell.
+
+#optionsText
+optLabel0:Timer-Zeit fuer Karten
+optLabel1:Normale Wuerfel-Seitenzahl
+optLabel2:Anfangskarten
+optConfirm:Fertig
+optLang:Sprache
+
+#summary
+sumCardPlayed:Karte gespielt: '{1}'
+sumCardAdded:{1} hat Karte '{2}' hinzugefuegt
+sumRolled:{1} hat eine {2} gewuerfelt
+sumPlayer:Spieler {1}:
+sumPlayerRolled:Insgesamt gewuerfelt: {1} ({3} male, Durchschnitt: {2})
+sumPlayerCardsPlayed:Karten gespielt: {1}
+
+langSelectionText:Sprachauswahl:
+langInfoAuthorText:Autor:
+langInfoVersionText:Version:
+langInfoAuthor:Yan W.
+langInfoVersion:1.1
